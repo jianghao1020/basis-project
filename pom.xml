@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.github</groupId>
+    <artifactId>basis-project</artifactId>
+    <version>1.0.0</version>
+    <description>尚硅谷2019基础教程</description>
+    <modules>
+        <module>day-1</module>
+        <module>day-2</module>
+        <module>day-3</module>
+        <module>day-4</module>
+        <module>day-5</module>
+        <module>project-1</module>
+    </modules>
+    <packaging>pom</packaging>
+
+</project>
